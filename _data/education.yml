@@ -1,13 +1,18 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Bachelor of Computing, Computer Science
+  uni: National University of Singapore
+  year: 2017 &mdash; 2021
+  award: Cumulative Average Point (CAP) - 4.81 out of 5
+  summary: Recipient of ASEAN Undergraduate Scholarship, granted to students with strong leadership qualities, good co-curricular records, and outstanding high school results
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Student Exchange Programme
+  uni: Korea University
+  year: August, 2019 &mdash; December, 2019
+  # award: Most likely to succeed
+  summary: An overseas immersion to broaden students’ horizon and equip them with essential soft skills to face the world after graduation
+
+- degree: University Town College Programme
+  uni: Tembusu College
+  year: August, 2017 &mdash; May, 2019
+  # award: Most likely to succeed
+  summary: An on-campus experience that provides students with holistic learning through seminar-style, interdisciplinary classes

@@ -1,16 +1,30 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+# Creation
+- project: CREATION 2020
+  role: Technical Executive
+  duration: November, 2019 &mdash; February, 2020
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Collaborated with a digital designer and a back-end developer in creating a website using Ruby on Rails and HTML/CSS/JavaScript that is used by 150 students to sign up and make submissions for a university-wide digital design competition
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+# CS2103
+- project: Giatros (CS2103 Software Engineering)
+  role: Developer
+  duration: January, 2019 &mdash; May, 2019
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: A project done for a software engineering course, in which we morphed an existing Command Line Interface application into a patient record, which can be deployed in clinics for doctors to arrange patient appointments and pharmacists to keep track of various patient allergy
+
+
+# charITeach
+- project: charITeach 2019
+  role: Project Director
+  duration: January, 2019 &mdash; May, 2019
+  # url: "#"
+  description: A two-day event that aims to provide basic programming knowledge to 60 university students and empower them as volunteers to teach the same skills to 90 underprivileged primary school students around Singapore
+
+# PlayDUCATION
+- project: PlayDUCATION
+  role: Project Leader
+  duration: September, 2018 &mdash; March, 2019
+  description: A project done for 15 primary school students in Ghim Moh Community Center on music and computing, where students will create a simple rhythm game using Scratch and compose their own music for the game

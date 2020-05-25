@@ -1,19 +1,30 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Year 3 Sem 2
+- company: NUS School of Computing
+  position: Undergraduate Research Assistant
+  duration:  February, 2020 &mdash; April, 2020
+  summary: Conducted web parsing using the Python library BeautifulSoup in order to collect product, vendor, and feedback data from dark webpages and extract them for further data analytics purpose
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Summer Year 2
+- company: CIMB Bank Berhad Singapore
+  position: Full Stack Developer
+  duration: May, 2019 &mdash; August, 2019
+  summary: <ul class="resume-item-list"><li>Developed a web application to automate the bank’s internal process, which is projected to increase the efficiency of 200 employees by bringing down the internal processing time from 2-3 working days when using paperwork to 2-3 hours when the application is deployed</li> <li>Used Python Flask as a web development framework, handled the application front-end using HTML/CSS/JavaScript, and integrated the application’s database to the company’s database using SQL Server</li> <li>Engaged on side projects such as using WhatsApp Business API to obtain texts sent by customers to the bank, on which text mining can be conducted to potentially increase the customers’ engagement with the bank</li></ul>
 
+# Year 2 Sem 2
+- company: Department of Computer Science, NUS
+  position: Undergraduate Teaching Assistant
+  duration:   January, 2019  &mdash; May, 2019
+  summary: Taught a group of 11 students by preparing tutorial slides and grading programming tasks for CS1010S Programming Methodology, a Python course that equips student with basic problem solving techniques <ul class="resume-item-list"><li>Garnered positive response from students and obtained a rating of 4.6 out of 5 in the teaching feedback exercise</li></ul>
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Year 1 Sem 2 - Year 2 Sem 1
+- company: Department of Information Systems and Analytics, NUS
+  position: Undergraduate Teaching Assistant
+  duration:   January, 2018  &mdash; November, 2018
+  summary: Conducted coaching sessions for students of BT1101 Introduction to Business Analytics, which aims to introduce the basic statistical knowledge and tools required to carry out data exploration and analytics <ul class="resume-item-list"><li>Guided 10 students weekly in using R to conduct simple data cleaning, data exploration and data visualisation</li></ul>
+
+# Year 1 Summer
+- company: CellMark Asia Pte Ltd
+  position: Sales and Logistics Support Intern
+  duration:   June, 2018  &mdash; August, 2018
+  summary: Assisted the sales team in an international trading company by creating and checking shipping documents, tracking the shipment status, and gathering data about the trading procedure to offer insighits in improving the company's quality of service
